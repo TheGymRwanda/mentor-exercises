@@ -14,26 +14,26 @@ This is a collection of exercises mentors may give students. To add your own exe
 ## Exercises
 
 ### HTML exercises
- - [Basic exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/html/basic-exercises.md)
+ - [Basic exercises](/exercises/html/basic-exercises.md)
 
 ### CSS exercises
- - [Basic exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/css/basic-css.md)
- - [CSS Layout / Intermediate CSS](https://github.com/Bloc/mentor-exercises/blob/master/exercises/css/css-layout.md)
+ - [Basic exercises](/exercises/css/basic-css.md)
+ - [CSS Layout / Intermediate CSS](/exercises/css/css-layout.md)
 
 ### Command line exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/command-line/basic-exercises.md)
+ - [Basic exercises ](/exercises/command-line/basic-exercises.md)
 
 ### Git exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/git/basic-exercises.md)
+ - [Basic exercises ](/exercises/git/basic-exercises.md)
 
 ### Javascript exercises
- - [Count the fives](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/count_the_fives.md)
- - [Basic / intermediate JS exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/basic-intermediate-exercises.md)
- - [JS Closures / Scoping exercises](https://github.com/Bloc/mentor-exercises/blob/master/exercises/javascript/closure-scoping-exercises.md)
+ - [Count the fives](/exercises/javascript/count_the_fives.md)
+ - [Basic / intermediate JS exercises](/exercises/javascript/basic-intermediate-exercises.md)
+ - [JS Closures / Scoping exercises](/exercises/javascript/closure-scoping-exercises.md)
 
 ### Ruby exercises
- - [Basic exercises ](https://github.com/Bloc/mentor-exercises/blob/master/exercises/ruby/basic-exercises.md)
+ - [Basic exercises ](/exercises/ruby/basic-exercises.md)
 
 ### Phase 1
- - [Test Assessment - One](https://github.com/Bloc/mentor-exercises/blob/master/exercises/phase1/test-assesment.md)
- - [Test Assessment - Two](https://github.com/Bloc/mentor-exercises/blob/master/exercises/phase1/test-assesment-two.md)
+ - [Test Assessment - One](/exercises/phase1/test-assesment.md)
+ - [Test Assessment - Two](/exercises/phase1/test-assesment-two.md)
